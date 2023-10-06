@@ -8,4 +8,4 @@ I used:
 -PHP8 (PDO Library)
 -MySQL
 
-https://youtu.be/CtlO3iwf8iU
+https://www.youtube.com/watch?v=CtlO3iwf8iU&ab_channel=ThiagoSchulz
