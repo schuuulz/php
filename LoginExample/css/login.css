@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: url(Images/login_mountains.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: "Images/login.jpg";
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.msg {
+    position: absolute;
+    top: 20px;
+    left: auto;
+    right: 20px;
+    width: 240px;
+    text-align: center;
+}
+
+
+div {
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 20%;
+    width: 100%;
+}
+
+.divLogin {
+    background-color: rgba(240, 248, 255, 0.593);
+    background: blur(1px);
+    padding: 20px;
+}
+
