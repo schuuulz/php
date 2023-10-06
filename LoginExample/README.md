@@ -8,4 +8,4 @@ I used:
 -PHP8 (PDO Library)
 -MySQL
 
-[![Youtube Video](https://youtu.be/CtlO3iwf8iU)]
+https://youtu.be/CtlO3iwf8iU
